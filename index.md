@@ -137,9 +137,9 @@ For questions about this Privacy Policy or data handling practices, contact:
 
 **Laurel Foodsystems**
 Attn: Privacy / IT Administration
-[Insert company address]
-[Insert contact email]
-[Insert contact phone]
+4590 Campbells Run Road Pittsburgh, PA 15205
+tom.diffendal@laurelfoodsystems.com
+4124944400
 
 -----
 
